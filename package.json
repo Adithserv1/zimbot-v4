@@ -1,5 +1,5 @@
 {
-  "name": "zimbot-v4",
+  "name": "Zimbot-v4",
   "version": "4.0.1",
   "description": "Multi device wa bot created by Zim Bot Inc.",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Drips",
+  "author": "𝘿𝙖𝙧𝙠𝙚𝙭𝙚,𝙎𝙢𝙤𝙤𝙩𝙝 𝙎𝙚𝙧,𝙇𝙤𝙧𝙙 𝙀𝙧𝙚𝙣",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
