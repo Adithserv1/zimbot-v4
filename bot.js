@@ -33,16 +33,16 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['917510569273',''] //owner number +27634090203
-global.wame = ['917510569273'] 
-global.pemilik = ['917510569273'] //owner number +27634090203
-global.premium = ['917510569273'] //premium number +27634090203
+global.owner = ['917510569273','919048950839','917356886454'] //owner number +27634090203
+global.wame = ['917510569273','919048950839','917356886454'] 
+global.pemilik = ['917510569273','919048950839','917356886454'] //owner number +27634090203
+global.premium = ['917510569273','919048950839','917356886454'] //premium number +27634090203
 global.pengguna = '𝘿𝙖𝙧𝙠𝙚𝙭𝙚,𝙎𝙢𝙤𝙤𝙩𝙝 𝙎𝙚𝙧,𝙇𝙤𝙧𝙙 𝙀𝙧𝙚𝙣' //username
 global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
 global.botname = '🦄ZIM BOT V4🦄'
 global.ownernma = 'Drips' //owner name
-global.packname = 'ZIM BOT V4' //sticker package name
+global.packname = '' //sticker package name
 global.author = '' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
